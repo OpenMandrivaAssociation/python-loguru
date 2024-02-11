@@ -33,3 +33,5 @@ Using logs in your application should be an automatism, Loguru tries to make it 
 %py_install
 
 %files
+%(python_sitelib)/loguru-%{version}-py*.*.egg-info
+%(python_sitelib)/loguru/
