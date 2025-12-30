@@ -4,7 +4,7 @@ Summary:	Python logging made (stupidly) simple
 
 Name:		python-%{module}
 Version:	0.7.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/Python
 Url:		https://github.com/Delgan/loguru
